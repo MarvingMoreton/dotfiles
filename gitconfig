@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = moreton.marving@gmail.com
+	name = Marving Moreton
